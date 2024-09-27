@@ -35,6 +35,31 @@
 //34.indexOf + კონკრეტული ელემენტის ინდექსს გეუბნება, თუ სტრინგია ბრჭყალებში უნდა გადასცე
 //35.spred operator + აქ მძიმე არ უნდა დაგვავიწყდეს
 //36.set() - უნიკალური ელელმენტების შესანახად გამოიყენება
+//37.asinc await -
+//37. promise -
+//38.fetch api -
+//39.local storage - 
+//40.rest -
+//41.callback -
+//42.object destructuring -
+//43.modul -
+//44.class -
+//45.method vs function - 
+//46.break & continue - 
+//47.switch - 
+//48.if else -
+//49.შედარების და ლოგიკური ოპერატორები - 
+//50.boolean
+//51.arrow function - 
+//52.anonim function - 
+
+//53.რა არის დომი - 
+//54.querySelector -
+//55.event lisener -
+//56.defer atribut -  
+//57. akardeonis awyoba - 
+//58.amindis apis awyoba - 
+
 
 
 /* let arr = [2, 4, 6, 8, 8, 12, 13, 14];
